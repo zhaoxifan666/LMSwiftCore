@@ -1,0 +1,6 @@
+framework module LMSwiftCore {
+  umbrella header "LMSwiftCore.h"
+  export *
+
+  module * { export * }
+}
